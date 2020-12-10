@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.RestApi\obj\Debug\net5.0\Abouca.RestApi.MvcApplicationPartsAssemblyInfo.cache

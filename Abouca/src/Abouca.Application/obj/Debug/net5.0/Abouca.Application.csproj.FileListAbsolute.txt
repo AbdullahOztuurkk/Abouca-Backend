@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\bin\Debug\net5.0\Abouca.Application.deps.json
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\bin\Debug\net5.0\Abouca.Application.dll
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\bin\Debug\net5.0\ref\Abouca.Application.dll
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\bin\Debug\net5.0\Abouca.Application.pdb
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.dll
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\ref\Abouca.Application.dll
+C:\Users\ASUS\source\repos\Abouca\Abouca\src\Abouca.Application\obj\Debug\net5.0\Abouca.Application.pdb
