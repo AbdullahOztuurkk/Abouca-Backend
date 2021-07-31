@@ -16,8 +16,6 @@ The project offers the infrastructure that allows you to make virtual cards with
   
 ## Installation
 
-Bu projeyi dağıtmak için çalıştırın
-
 ```bash
     # Install All Dependencies
     dotnet restore
